@@ -1,0 +1,28 @@
+
+Readme - Human Resources Management Project for DataWare
+Welcome to the project for developing the human resources management interface for DataWare. The goal of this project is to revolutionize how the company handles its teams and projects by implementing a user-friendly and secure interface. Key technologies used in this project include PHP, MySQL, HTML5, CSS3, Git, and UML concepts.
+
+Project Objective
+This project aims to design and implement an efficient interface for human resources management, meeting the specific needs of DataWare. This includes user creation, project management, team assignment, and other crucial features for the internal organization of the company.
+
+Technologies Used
+PHP: Used for server-side development, this powerful programming language is employed to implement the necessary features for human resources management.
+
+MySQL: The relational database that will store critical information about users, teams, and projects.
+
+HTML5/CSS3: These technologies are used to design a modern and responsive user interface, ensuring an optimal visual experience.
+
+Git: Version control system to ensure effective collaboration and track changes made to the source code.
+
+UML: UML diagrams, including use case, class, and sequence diagrams, are used to clearly represent the structures and relationships of the system.
+
+Key Features
+The system will implement the following features in response to the defined user stories:
+
+Authentication: Users will be able to register and authenticate using a login and password to access the platform.
+
+Project and Team Management: Users can view, create, modify, and delete projects and manage associated teams.
+
+Role Assignment: Product Owners can assign Scrum Masters to specific projects, defining their respective roles.
+
+Team Management: Scrum Masters can create, modify, and delete teams, adjust staffing by adding or removing members, and assign teams to specific projects.
